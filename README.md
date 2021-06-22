@@ -1,2 +1,2 @@
-# SmartPhone_Project
-Recipe IOS APP
+# RecipeApp
+ios development
